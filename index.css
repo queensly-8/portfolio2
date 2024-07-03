@@ -32,7 +32,7 @@ a.navbar-brand{
   align-items: center;
 }
 
-#avatar{
+#avatar img{
     display: flex;
     background-repeat: no-repeat;
     background-size: cover;
